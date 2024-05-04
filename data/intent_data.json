@@ -1,0 +1,56 @@
+{
+    "intents": {
+        "Greet": [
+            "Hi",
+            "How are you?",
+            "Hello",
+            "Good day",
+            "Greetings",
+            "How’s it going?",
+            "Hey there!",
+            "What’s up?",
+            "Howdy",
+            "Good to see you",
+            "How are you doing today?",
+            "How do you do?",
+            "What's new?",
+            "How’s everything?",
+            "How’s life treating you?",
+            "How are things?",
+            "How’s your day going?",
+            "Are you doing well?",
+            "How have you been?",
+            "How’s your day shaping up?",
+            "How are you feeling today?",
+            "You alright?",
+            "Everything good with you?",
+            "What’s going on with you?",
+            "All good with you?"
+        ],
+        "Farewell": [
+            "Goodbye",
+            "See you later",
+            "Take care",
+            "Farewell",
+            "Have a good one",
+            "Bye-bye",
+            "Talk to you soon",
+            "Catch you later",
+            "Until next time",
+            "Safe travels"
+        ],
+        "Inquiry": [
+            "What's the weather like today?",
+            "Can you tell me the time?",
+            "Where is the nearest restaurant?",
+            "How late are you open today?",
+            "What are the hours for the museum?",
+            "Can I get directions to the mall?",
+            "Is there a gas station nearby?",
+            "How do I get to the airport from here?",
+            "Where can I find the nearest ATM?",
+            "What’s the best way to reach downtown?"
+        ]
+    }
+}
+gi
